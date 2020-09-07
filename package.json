@@ -26,5 +26,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smabe777/react-portfolio.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "5-day",
+    "challenge"
+  ],
+  "author": "Rod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smabe777/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/smabe777/react-portfolio#readme"
 }
