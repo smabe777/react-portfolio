@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clever Programmer ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
@@ -41,3 +42,7 @@ Header photo credit
 
 Testimonial photo credit
 <a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
+=======
+# react-portfolio
+React 5-day Challenge with CleverProgrammers
+>>>>>>> f23644756f9fb9d15dc4d57a6f2d091f160832bf
